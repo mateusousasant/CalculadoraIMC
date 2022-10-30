@@ -11,5 +11,4 @@ Projeto do [B7Web](https://b7web.com.br), desenvolvido por [mim](https://github.
 
 ### Mobile
 
-
 ![Mobile](mobile.png)
